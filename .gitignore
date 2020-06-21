@@ -1,0 +1,10 @@
+# Ignore Gradle project-specific cache directory
+.gradle
+
+# Ignore Gradle build output directory
+build
+
+# Ignore Web Drivers
+drivers/chromedriver.exe
+drivers/geckodriver.exe
+drivers/msedgedriver.exe
